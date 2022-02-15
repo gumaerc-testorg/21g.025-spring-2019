@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Films
 uid: 3d2704ac-18f7-99b4-a3fe-115d28c9b0c6
 ---
@@ -205,7 +208,7 @@ Historicizing Africa
 
 _Readings_
 
-Brizuela-Garcia, Esperanza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Africa in the World: History and Historiography.” (PDF)](https://oxfordre.com/africanhistory/view/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-296?print=pdf) _Oxford Research Encyclopedias_. 2018.
+Brizuela-Garcia, Esperanza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Africa in the World: History and Historiography.” (PDF)](https://oxfordre.com/africanhistory/view/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-296) _Oxford Research Encyclopedias_. 2018.
 
 Peterson, Derek R., and Giacomo Macola, eds. “Introduction: Homespun Historiography and the Academic Profession.” In _Recasting the Past: History Writing and Political Work in Modern Africa_. Ohio University Press, 2009. ISBN: 9780821418796. 
 
