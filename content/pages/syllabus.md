@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5bf0340d-8797-1854-948b-5853ba2232b7
 ---
@@ -24,7 +27,7 @@ The course is divided into two parts: Being and Becoming. In Part 1, Being, we c
 Readings and Films
 ------------------
 
-All required readings and films can be found in the [Readings and Films]({{< baseurl >}}/pages/readings-and-films) section.
+All required readings and films can be found in the {{% resource_link 3d2704ac-18f7-99b4-a3fe-115d28c9b0c6 "Readings and Films" %}} section.
 
 Grading
 -------
@@ -99,7 +102,7 @@ Final paper (Prospectus 5% + Outline 5% + Presentation 5% + Paper 15%)
 
 {{< tableclose >}}
 
-For detail on the activities listed in the table, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities listed in the table, see the {{% resource_link 2e3e5e12-d5d6-3247-b341-afdeecdbc361 "Assignments" %}} section.
 
 Writing Support
 ---------------

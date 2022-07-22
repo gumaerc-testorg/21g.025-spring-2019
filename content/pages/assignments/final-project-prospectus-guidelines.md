@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the guidelines for the final project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e3e5e12-d5d6-3247-b341-afdeecdbc361
 title: Final Project Prospectus Guidelines
 uid: 57e005ef-1054-0af7-943c-a3de251a9b5b
