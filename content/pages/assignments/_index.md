@@ -1,27 +1,24 @@
 ---
 content_type: page
 description: This section contains the course assignments.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 2e3e5e12-d5d6-3247-b341-afdeecdbc361
 ---
-
-Reading Responses 
-------------------
+## Reading Responses 
 
 You will write a 200–300 word response to the readings / films for each session. These responses are meant to help you synthesize and integrate the readings for your own learning (and give you a starting point for in-class discussion!), and also to help me gauge your understanding of the readings, what they brought up for you, etc., so that I might pitch classes at the right level. To that end, your responses should engage critically with the assigned materials: summarize the questions they raise and their key arguments, and lay out how the pieces relate to one another; state what remains unclear to you or leaves you perplexed, what questions the texts brought up for you, etc. These posts are due by MIDNIGHT the day before class. You may be exempted for one of the 22 required responses during the semester without penalty; in addition, on the day when you lead class discussion (see below), your presentation will count as your reading response (please email it to me by midnight the day before class). In other words, by the end of the semester, to get full credit for reading responses, you must have handed in a total of 20 (20% of your grade).
 
-Presentation of Readings and Class Discussion Lead
---------------------------------------------------
+## Presentation of Readings and Class Discussion Lead
 
 You will each lead class discussion on an assigned reading at one point in the semester; this will entail a 15-minute presentation of the reading / film, and 2–3 questions to launch discussion with your classmates.
 
 This will count for 10% of your grade.
 
-Paper 1
--------
+## Paper 1
 
 This paper is meant as an opportunity for you to take stock of the material we have discussed so far, and formulate key takeaways.
 
@@ -35,20 +32,18 @@ The paper should be 1,250 words; 5 pages double-spaced, 12 size font.
 
 Paper 1 will count for 10% of your grade.
 
-Final Paper
------------
+## Final Paper
 
 This will be a research paper on a topic of your choosing related to course themes. You will build towards the final paper by handing in a proposal and outline first, and you will present the paper during the last week of classes.
 
-For further detail, see {{% resource_link 57e005ef-1054-0af7-943c-a3de251a9b5b "Final Project Prospectus Guidelines" %}}.
+For further detail, see {{% resource_link "57e005ef-1054-0af7-943c-a3de251a9b5b" "Final Project Prospectus Guidelines" %}}.
 
 The final paper will count for 30% of your grade.
 
-Extra Credit Possibility
-------------------------
+## Extra Credit Possibility
 
 You can earn 5% extra credit (by event) by attending the following movie screenings and discussions and writing a 500-word reflection on the event that engages with course themes and readings. (If you cannot attend these screenings and would like to attend other Africa-related events instead for this extra credit option, please consult with the instructor beforehand.)
 
-“[Rafiki](https://listart.mit.edu/events-programs/public-program-2019-women-take-reel-film-series-rafiki).” Women Take the Reel Film Series, MIT List Visual Arts Center.
+“Rafiki.” Women Take the Reel Film Series, MIT List Visual Arts Center.
 
-[“Inadelso Cossa: Personal Perspectives on Mozambican History through Film](http://act.mit.edu/projects-and-events/lectures-series/2019-spring/may-6-inadelso-cossa/).” MIT Program in Art, Culture and Technology.
+[“Inadelso Cossa: Personal Perspectives on Mozambican History through Film](https://web.archive.org/web/20190415211601/http://act.mit.edu/projects-and-events/lectures-series/2019-spring/may-6-inadelso-cossa/).” MIT Program in Art, Culture and Technology.
